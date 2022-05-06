@@ -19,7 +19,6 @@ if (mq.matches){
 }
 
 document.getElementById('flyTo').addEventListener('click', () => {
-// Fly to a random location by offsetting the point -74.50, 40 by up to 5 degrees.
       map.flyTo({
       center: [
          -119.480602,
