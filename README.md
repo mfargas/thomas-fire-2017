@@ -15,7 +15,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-This project was built using HTML, JS, mapbox API, Node.js and Express.js. At UCSB Fall 2017, I built this app using mapbox API to
+This project was built using HTML, JS, mapbox API, and some DOM manipulation. At UCSB Fall 2017, I built this app using mapbox API to
 show on a map where a nearby fire would be. I actually got it to work... only I was building it when the Thomas Fire affected the
 area. While we faced many challenges as classmates and neighbors within the community, I was building this app with a first-hand
 experience testing my own product out in my own situation. It wasn't very advanced, but it was a very surreal moment for me. At that time, I had no knowledge of Git and GitHub or deployment. This hindered my ability to showcase this and a few other projects
@@ -40,8 +40,8 @@ excited and a little overwhelmed with the unlimited ideas and implementation of 
 ![App Screenshot](./images/app-in-use.png)
 
 ### Links
-[App](https://thomas-fire-2017.netlify.app/)
-[Documentation](https://github.com/mfargas/thomas-fire-2017.git)
+- [App](https://thomas-fire-2017.netlify.app/)
+- [Documentation](https://github.com/mfargas/thomas-fire-2017.git)
 
 ## My Process
 ### Built With
@@ -131,8 +131,8 @@ I had trouble at the time of implementation retrieving data from NASA's API Data
 
 ### Useful Resources
 Along with the teachings of Lisa Jevbratt-who I would continue to learn from in other course-I utilized documentation such as:
-[Mapbox Docs](https://docs.mapbox.com/)
-[NASA Active Fire Data](https://firms.modaps.eosdis.nasa.gov/active_fire/)
+- [Mapbox Docs](https://docs.mapbox.com/)
+- [NASA Active Fire Data](https://firms.modaps.eosdis.nasa.gov/active_fire/)
 
 Professor Jevbratt provided the following resources(all of which are no longer available online):
 - Learning JavaScript, Shelley Powers (e-book)
